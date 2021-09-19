@@ -1,0 +1,14 @@
+.good {
+  font-weight: 500;
+  color: #0e803c;
+}
+
+.neutral {
+  font-weight: 500;
+  color: #1225ee;
+}
+
+.bad {
+  font-weight: 500;
+  color: #ee1212;
+}

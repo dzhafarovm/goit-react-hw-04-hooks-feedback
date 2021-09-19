@@ -1,0 +1,18 @@
+.btnList {
+  display: flex;
+}
+
+.button {
+  padding: 2px 16px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  cursor: pointer;
+  margin-right: 10px;
+  font-size: 16px;
+  text-transform: capitalize;
+}
+
+.button:active {
+  color: #ffffff;
+  background-color: #1225ee;
+}
